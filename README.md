@@ -21,7 +21,7 @@ This helps you:
 
 ### Steps
 
-1. Download the latest `ShowProductionConsumption.dll` from the **Releases** page.  
+1. Download the latest `ShowProductionConsumption.dll` from here: [Download](https://lexydotzip.itch.io/hshp-prod-cons).  
 2. Open your game installation folder:  
 
    `SteamLibrary\steamapps\common\High Seas, High Profits!`
